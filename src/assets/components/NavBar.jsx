@@ -35,7 +35,7 @@ export default function NavBar(props) {
             Menu
           </Link>
           <Link to="/admin" className="font-medium text-gray-700 hover:text-amber-500 transition">
-            Admin
+            Admin Dashboard
           </Link>
           <Link to="/cart" className="font-medium text-gray-700 hover:text-amber-500 transition">
             Cart
