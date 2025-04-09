@@ -1,0 +1,192 @@
+{
+    "products": [
+      {
+        "id": "3",
+        "name": "Pepperoni Burger",
+        "price": 8,
+        "totalPrice": 8,
+        "category": 2,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1606755962773-97cd0cb2c2b9?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "4",
+        "name": "Bacon Burger",
+        "price": 10,
+        "totalPrice": 10,
+        "category": 2,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "5",
+        "name": "Caesar Salad",
+        "price": 6,
+        "totalPrice": 6,
+        "category": 3,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1572441710534-776f02cc32dc?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "6",
+        "name": "Greek Salad",
+        "price": 7,
+        "totalPrice": 7,
+        "category": 3,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1613145997423-8d9b9697aa86?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "7",
+        "name": "Chocolate Cake",
+        "price": 5,
+        "totalPrice": 5,
+        "category": 4,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1599785209798-12d8873f61b7?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "8",
+        "name": "Ice Cream",
+        "price": 4,
+        "totalPrice": 4,
+        "category": 4,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1625944201220-921c3f1e06f5?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "9",
+        "name": "Coke",
+        "price": 2,
+        "totalPrice": 2,
+        "category": 5,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1607013251379-e6d27e4a8d2b?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "10",
+        "name": "Lemonade",
+        "price": 3,
+        "totalPrice": 3,
+        "category": 5,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1620877670389-f302d3f9f3ef?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "11",
+        "name": "Four Cheese Pizza",
+        "price": 13,
+        "totalPrice": 13,
+        "category": 1,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1601924928376-3ccde5b1d3f9?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "12",
+        "name": "Veggie Pizza",
+        "price": 11,
+        "totalPrice": 11,
+        "category": 1,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1548365328-8b849c0b3d57?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "13",
+        "name": "Double Cheeseburger",
+        "price": 9,
+        "totalPrice": 9,
+        "category": 2,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "14",
+        "name": "Chicken Burger",
+        "price": 8,
+        "totalPrice": 8,
+        "category": 2,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1606755962821-f97958b89c59?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "15",
+        "name": "Avocado Salad",
+        "price": 7,
+        "totalPrice": 7,
+        "category": 3,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1578860909789-e1cf03f2b5e4?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "16",
+        "name": "Quinoa Salad",
+        "price": 8,
+        "totalPrice": 8,
+        "category": 3,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "17",
+        "name": "Strawberry Cake",
+        "price": 6,
+        "totalPrice": 6,
+        "category": 4,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "18",
+        "name": "Fruit Tart",
+        "price": 5,
+        "totalPrice": 5,
+        "category": 4,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1602751582039-0e0c85db6c3f?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "19",
+        "name": "Iced Coffee",
+        "price": 3,
+        "totalPrice": 3,
+        "category": 5,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1570563675613-21c84b4f6eaa?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "20",
+        "name": "Mango Smoothie",
+        "price": 4,
+        "totalPrice": 4,
+        "category": 5,
+        "count": 0,
+        "inCart": false,
+        "imageUrl": "https://images.unsplash.com/photo-1576402187872-4be437145a92?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "categories": [
+      { "id": "1", "name": "Pizza" },
+      { "id": "2", "name": "Burger" },
+      { "id": "3", "name": "Salad" },
+      { "id": "4", "name": "Dessert" },
+      { "id": "5", "name": "Drink" }
+    ]
+  }
+  
