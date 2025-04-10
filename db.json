@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": "4",
-      "name": "Bacon Burger",
-      "price": 10,
-      "totalPrice": 10,
-      "category": 2,
-      "count": 0,
-      "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=800&q=80"
-    },
-    {
       "id": "5",
       "name": "Caesar Salad",
       "price": 6,
@@ -18,7 +8,7 @@
       "category": 3,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1572441710534-776f02cc32dc?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://www.grocery.coop/sites/default/files/NCG_Dennis_Becker_Classic_Caesar_Salad_715_x_477.jpg"
     },
     {
       "id": "6",
@@ -28,7 +18,7 @@
       "category": 3,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1613145997423-8d9b9697aa86?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://images.getrecipekit.com/20240905221054-pk-greek-salad-0214-min.jpg?aspect_ratio=16:9&quality=90&"
     },
     {
       "id": "7",
@@ -38,7 +28,7 @@
       "category": 4,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1599785209798-12d8873f61b7?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwmSZeZ_ZFa4YuKicYispg_pIz7HCOcy5PA&s"
     },
     {
       "id": "8",
@@ -48,7 +38,7 @@
       "category": 4,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1625944201220-921c3f1e06f5?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoMj74C2e5v3q-zRoGhqf-W2gCiKsktQlKA&s"
     },
     {
       "id": "9",
@@ -58,7 +48,7 @@
       "category": 5,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1607013251379-e6d27e4a8d2b?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://t3.ftcdn.net/jpg/03/06/17/30/360_F_306173087_XbMsavtqGIHz7Ug07Z6j4Eyi9QMu3ivQ.jpg"
     },
     {
       "id": "10",
@@ -68,7 +58,7 @@
       "category": 5,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1620877670389-f302d3f9f3ef?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://i.imgur.com/VblgBXf.jpeg"
     },
     {
       "id": "11",
@@ -78,7 +68,7 @@
       "category": 1,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1601924928376-3ccde5b1d3f9?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKe64dGQqXuzACczrUWWQDk1YIgCsFvjiMDg&s"
     },
     {
       "id": "12",
@@ -88,7 +78,7 @@
       "category": 1,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1548365328-8b849c0b3d57?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCklOjUiOBGGMnILMmftmKQdrEBjQMOHfeyg&s"
     },
     {
       "id": "13",
@@ -108,7 +98,7 @@
       "category": 2,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1606755962821-f97958b89c59?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://www.recipetineats.com/tachyon/2023/09/Crispy-fried-chicken-burgers_5.jpg"
     },
     {
       "id": "15",
@@ -118,7 +108,7 @@
       "category": 3,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1578860909789-e1cf03f2b5e4?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2024/07/avocado-salad.jpg"
     },
     {
       "id": "16",
@@ -148,7 +138,7 @@
       "category": 4,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1602751582039-0e0c85db6c3f?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fruit-tart-recipe-3-1650464619.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
     },
     {
       "id": "19",
@@ -158,7 +148,7 @@
       "category": 5,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1570563675613-21c84b4f6eaa?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://kitchenaid.com.au/cdn/shop/articles/Iced_Latte.png?v=1724735211"
     },
     {
       "id": "20",
@@ -168,13 +158,13 @@
       "category": 5,
       "count": 0,
       "inCart": false,
-      "imageUrl": "https://images.unsplash.com/photo-1576402187872-4be437145a92?auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2023/05/mango-smoothie.jpg"
     },
     {
       "id": 21,
       "name": "pizza",
-      "price": 123,
-      "totalPrice": 123,
+      "price": 10,
+      "totalPrice": 10,
       "category": 1,
       "count": 0,
       "inCart": false,
