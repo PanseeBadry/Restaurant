@@ -2,6 +2,9 @@
 
 A simple and responsive web application for managing and browsing products — perfect for a small restaurant or online store. Built using **React**, **React Router**, and **Tailwind CSS**, the app includes a customer-facing menu and cart system, along with an **admin dashboard** for managing products.
 
+# Demo Link
+https://drive.google.com/file/d/1hpGHRh8pnrCa2Vwvfxx42eLKZVuq8Dtf/view?usp=drive_link
+
 ---
 
 ## 📌 Features
